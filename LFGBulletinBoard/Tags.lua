@@ -151,6 +151,13 @@ GBB.dungeonTagsLoc={
 		["BREW"] =  "brewfest brew coren dire direbrew beerfest",
 		["HOLLOW"] = "headless horseman hollow",
 		["TRADE"] = "buy buying sell selling wts wtb hitem henchant htrade enchanter", --hlink
+		["DARNASSUS"] = "darn darnasus darnassus",
+		["STORMWIND"] = "sw storm stormwind",
+		["IRONFORGE"] = "if iron ironforge",
+		["SOUTHSHORE"] = "ss southshor southshore",
+		["RATCHET"] = "rat ratch ratchet",
+		["BOOTY"] = "bb booty bootybay bay",
+		["SUMMON"] = "sum summon sumon suman",
 	}),
 	deDE =langSplit({
 		["RFC"] = 	"rfa ragefireabgrund flammenschlund flamenschlund rf rfg" ,

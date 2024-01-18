@@ -108,6 +108,13 @@ function GBB.GetDungeonNames()
 		["WG"]  =   "Wintergrasp (PvP)",
 		["ARENA"] = "Arena (PvP)",
 		["MISC"] = 	"Miscellaneous",
+		["DARNASSUS"] = "Darnassus",
+		["STORMWIND"] = "Stormwind",
+		["IRONFORGE"] = "Ironforge",
+		["SOUTHSHORE"] = "Southshore",
+		["RATCHET"] = "Ratchet",
+		["BOOTY"] = "Booty Bay",
+		["SUMMON"] = "Other Summons",
 		["TRADE"] =	"Trade",
 		["DEBUG"] = "DEBUG INFO",
 		["BAD"] =	"DEBUG BAD WORDS - REJECTED",
@@ -644,6 +651,7 @@ GBB.VanillaDungeonLevels ={
 	["AQ40"] = 	{60,60}, ["NAX"] = 	{60,60},
 	["MISC"]= {0,100},
 	["DEBUG"] = {0,100}, ["BAD"] =	{0,100}, ["TRADE"]=	{0,100}, ["SM2"] =  {28,42}, ["DM2"] =	{58,60}, ["DEADMINES"]={18,23},
+	["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["RATCHET"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
 }
 
 GBB.PostTbcDungeonLevels = {
@@ -655,6 +663,7 @@ GBB.PostTbcDungeonLevels = {
 	["AQ40"] = 	{60,60}, ["NAX"] = 	{60,60},
 	["MISC"]= {0,100},
 	["DEBUG"] = {0,100}, ["BAD"] =	{0,100}, ["TRADE"]=	{0,100}, ["SM2"] =  {28,42}, ["DM2"] =	{58,60}, ["DEADMINES"]={16,24},
+	["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["RATCHET"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
 }
 
 
@@ -703,7 +712,7 @@ GBB.PvpNames = {
 	"WSG", "AB", "AV", "EOTS", "WG", "SOTA", "ARENA",
 }
 
-GBB.Misc = {"MISC", "TRADE",}
+GBB.Misc = {"MISC", "TRADE", "DARNASSUS", "STORMWIND", "IRONFORGE", "SOUTHSHORE", "RATCHET", "BOOTY", "SUMMON",}
 
 GBB.DebugNames = {
 	"DEBUG", "BAD", "NIL",
