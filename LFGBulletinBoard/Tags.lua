@@ -55,6 +55,13 @@ GBB.heroicTagsLoc=langSplit({
 
 GBB.dungeonTagsLoc={
 	enGB = langSplit({
+		["DARNASSUS"] = "darn darnasus darnassus",
+		["STORMWIND"] = "sw storm stormwind",
+		["IRONFORGE"] = "if iron ironforge",
+		["SOUTHSHORE"] = "ss southshor southshore",
+		["RATCHET"] = "rat ratch ratchet",
+		["DMF"] = "dmf dark darkmoon fair faire elwynn mulgore",
+		["BOOTY"] = "bb booty bootybay bay",
 		["RFC"] = 	"rfc ragefire chasm" ,
 		["DM"]  = 	"deadmines vc vancleef dead mines mine" ,
 		["WC"]  = 	"wc wailing caverns" ,
@@ -151,13 +158,6 @@ GBB.dungeonTagsLoc={
 		["BREW"] =  "brewfest brew coren dire direbrew beerfest",
 		["HOLLOW"] = "headless horseman hollow",
 		["TRADE"] = "buy buying sell selling wts wtb hitem henchant htrade enchanter", --hlink
-		["DARNASSUS"] = "darn darnasus darnassus",
-		["STORMWIND"] = "sw storm stormwind",
-		["IRONFORGE"] = "if iron ironforge",
-		["SOUTHSHORE"] = "ss southshor southshore",
-		["RATCHET"] = "rat ratch ratchet",
-		["DMF"] = "dmf dark darkmoon fair faire elwynn mulgore",
-		["BOOTY"] = "bb booty bootybay bay",
 		["SUMMON"] = "sum summon sumon suman",
 	}),
 	deDE =langSplit({
