@@ -156,6 +156,7 @@ GBB.dungeonTagsLoc={
 		["IRONFORGE"] = "if iron ironforge",
 		["SOUTHSHORE"] = "ss southshor southshore",
 		["RATCHET"] = "rat ratch ratchet",
+		["DMF"] = "dmf dark darkmoon fair faire elwynn mulgore",
 		["BOOTY"] = "bb booty bootybay bay",
 		["SUMMON"] = "sum summon sumon suman",
 	}),
