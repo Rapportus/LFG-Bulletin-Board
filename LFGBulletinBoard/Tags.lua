@@ -55,6 +55,7 @@ GBB.heroicTagsLoc=langSplit({
 
 GBB.dungeonTagsLoc={
 	enGB = langSplit({
+		["ASHENVALE"] = "ash ashen ashenvale astra astranar astranaar",
 		["DARNASSUS"] = "darn darnasus darnassus",
 		["STORMWIND"] = "sw storm stormwind",
 		["IRONFORGE"] = "if iron ironforge",
