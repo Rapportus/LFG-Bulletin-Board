@@ -61,6 +61,7 @@ GBB.dungeonTagsLoc={
 		["IRONFORGE"] = "if iron ironforge",
 		["SOUTHSHORE"] = "ss south shore southshor southsore southshore",
 		["RATCHET"] = "rat rachet ratch ratchet",
+		["DESOLACE"] = "des desolac desolce desolace nijle nigle nijel nijels nigel nigels nigel's nigel's"
 		["GADGETZAN"] = "gadg gadget gadgetzan tanaris",
 		["EVERLOOK"] = "everlook winter winterspring",
 		["DMF"] = "dmf dark darkmoon fair faire elwynn mulgore",
