@@ -114,6 +114,8 @@ function GBB.GetDungeonNames()
 		["IRONFORGE"] = "Ironforge",
 		["SOUTHSHORE"] = "Southshore",
 		["RATCHET"] = "Ratchet",
+		["DUSKWOOD"] = "Darkshire/Duskwood",
+		["WPL"] = "Western Plaguelands",
 		["DESOLACE"] = "Desolace",
 		["GADGETZAN"] = "Gadgetzan",
 		["EVERLOOK"] = "Everlook",
@@ -656,7 +658,7 @@ GBB.VanillaDungeonLevels ={
 	["AQ40"] = 	{60,60}, ["NAX"] = 	{60,60},
 	["MISC"]= {0,100},
 	["DEBUG"] = {0,100}, ["BAD"] =	{0,100}, ["TRADE"]=	{0,100}, ["SM2"] =  {28,42}, ["DM2"] =	{58,60}, ["DEADMINES"]={18,23},
-	["ASHENVALE"] = {0,100}, ["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["RATCHET"] = {0,100}, ["DESOLACE"] = {0,100}, ["GADGETZAN"] = {0,100}, ["EVERLOOK"] = {0,100}, ["DMF"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
+	["ASHENVALE"] = {0,100}, ["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["DUSKWOOD"] = {0,100}, ["WPL"] = {0,100}, ["RATCHET"] = {0,100}, ["DESOLACE"] = {0,100}, ["GADGETZAN"] = {0,100}, ["EVERLOOK"] = {0,100}, ["DMF"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
 }
 
 GBB.PostTbcDungeonLevels = {
@@ -668,7 +670,7 @@ GBB.PostTbcDungeonLevels = {
 	["AQ40"] = 	{60,60}, ["NAX"] = 	{60,60},
 	["MISC"]= {0,100},
 	["DEBUG"] = {0,100}, ["BAD"] =	{0,100}, ["TRADE"]=	{0,100}, ["SM2"] =  {28,42}, ["DM2"] =	{58,60}, ["DEADMINES"]={16,24},
-	["ASHENVALE"] = {0,100}, ["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["RATCHET"] = {0,100}, ["DESOLACE"] = {0,100}, ["GADGETZAN"] = {0,100}, ["EVERLOOK"] = {0,100}, ["DMF"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
+	["ASHENVALE"] = {0,100}, ["DARNASSUS"] = {0,100}, ["STORMWIND"] = {0,100}, ["IRONFORGE"] = {0,100}, ["SOUTHSHORE"] = {0,100}, ["RATCHET"] = {0,100}, ["DUSKWOOD"] = {0,100}, ["WPL"] = {0,100}, ["DESOLACE"] = {0,100}, ["GADGETZAN"] = {0,100}, ["EVERLOOK"] = {0,100}, ["DMF"] = {0,100}, ["BOOTY"] = {0,100}, ["SUMMON"] = {0,100},
 }
 
 
@@ -717,7 +719,7 @@ GBB.PvpNames = {
 	"WSG", "AB", "AV", "EOTS", "WG", "SOTA", "ARENA",
 }
 
-GBB.Misc = {"MISC", "TRADE", "ASHENVALE", "DARNASSUS", "STORMWIND", "IRONFORGE", "SOUTHSHORE", "RATCHET", "DESOLACE", "GADGETZAN", "EVERLOOK", "DMF", "BOOTY", "SUMMON",}
+GBB.Misc = {"MISC", "TRADE", "ASHENVALE", "DARNASSUS", "STORMWIND", "IRONFORGE", "SOUTHSHORE", "RATCHET", "DUSKWOOD", "WPL", "DESOLACE", "GADGETZAN", "EVERLOOK", "DMF", "BOOTY", "SUMMON",}
 
 GBB.DebugNames = {
 	"DEBUG", "BAD", "NIL",
