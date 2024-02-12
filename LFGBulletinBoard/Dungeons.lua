@@ -709,7 +709,7 @@ GBB.TbcDungeonNames = {
 
 GBB.VanillDungeonNames  = {
 	"RFC", "WC" , "DM" , "SFK", "STK", "BFD", "GNO",
-    "RFK", "SMG", "SML", "SMA", "SMC", "RFD", "ULD",
+    "RFK", "SMANY", "SMG", "SML", "SMA", "SMC", "RFD", "ULD",
     "ZF", "MAR", "ST" , "BRD", "LBRS", "DME", "DMN",
     "DMW", "STR", "SCH", "UBRS", "MC", "ZG",
     "AQ20", "BWL", "AQ40", "NAX",
@@ -720,7 +720,7 @@ GBB.PvpNames = {
 	"WSG", "AB", "AV", "EOTS", "WG", "SOTA", "ARENA",
 }
 
-GBB.Misc = {"SMANY", "MISC", "TRADE", "ASHENVALE", "DARNASSUS", "STORMWIND", "IRONFORGE", "SOUTHSHORE", "RATCHET", "DUSKWOOD", "WPL", "DESOLACE", "GADGETZAN", "EVERLOOK", "DMF", "BOOTY", "SUMMON",}
+GBB.Misc = {"MISC", "TRADE", "ASHENVALE", "DARNASSUS", "STORMWIND", "IRONFORGE", "SOUTHSHORE", "RATCHET", "DUSKWOOD", "WPL", "DESOLACE", "GADGETZAN", "EVERLOOK", "DMF", "BOOTY", "SUMMON",}
 
 GBB.DebugNames = {
 	"DEBUG", "BAD", "NIL",
