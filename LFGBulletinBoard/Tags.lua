@@ -64,6 +64,7 @@ GBB.dungeonTagsLoc={
 		["WPL"] = "wp wpl western plague plaguelands",
 		["RATCHET"] = "rat rachet ratch ratchet",
 		["DESOLACE"] = "des desolac desolce desolace nijle nigle nijel nijels nigel nigels nigel's nigel's",
+		["FEATHERMOON"] = "feather feathermoon",
 		["GADGETZAN"] = "gadg gadget gadgetzan tanaris",
 		["EVERLOOK"] = "everlook winter winterspring",
 		["DMF"] = "dmf dark darkmoon fair faire elwynn mulgore",
