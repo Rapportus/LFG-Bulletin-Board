@@ -62,6 +62,7 @@ GBB.dungeonTagsLoc={
 		["SOUTHSHORE"] = "ss south shore southshor southsore southshore hillsbrd hillsbrad",
 		["DUSKWOOD"] = "dusk duskwood darkshire",
 		["FELWOOD"] = "fel felwood",
+		["MOONGLADE"] = "moon moonglad moonglade",
 		["WPL"] = "wp wpl western plague plaguelands",
 		["RATCHET"] = "rat rachet ratch ratchet",
 		["DESOLACE"] = "des desolac desolce desolace nijle nigle nijel nijels nigel nigels nigel's nigel's",
