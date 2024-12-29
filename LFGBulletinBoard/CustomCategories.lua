@@ -96,6 +96,28 @@ local presets = {
         isDisabled = false,
         sortIdx = 2,
     }, 
+
+    -- RAPPORTUS: Custom Filters defined below here
+    SMANY = {
+        name = "Scarlet Monastery (Any)",
+        key = "SMANY",
+        tags = {
+            enUS = "sm scarlet monastery",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    STORMWIND = {
+        name = "Stormwind",
+        key = "STORMWIND",
+        tags = {
+            enUS = "stormwind sw",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    }
 }
 
 --- Initializes and validates saved variable table entries for custom user filters/categories.

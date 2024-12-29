@@ -907,7 +907,7 @@ local dungeonTags = {
 
 	-- Misc. Dungeons
 	SM2 = { -- Base Scarlet Monastery catch-all for all wings
-		enGB = "sm scarlet monastery mona",
+		enGB = "notsm", -- RAPPORTUS: original: "sm scarlet monastery mona",
 		deDE = "kloster",
 		ruRU = "мао монастырь",
 		frFR = nil,
@@ -1045,7 +1045,7 @@ local miscTags = {
 	  zhCN = "买 卖 收 代工 出售 附魔",
 	},
 	TRAVEL = { -- Travel Services
-	  enGB = "sum summ summon summons summoning port portal travel",
+	  enGB = "notsum", -- RAPPORTUS: original: "sum summ summon summons summoning port portal travel",
 	  deDE = nil,
 	  ruRU = nil,
 	  frFR = nil,
