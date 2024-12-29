@@ -98,6 +98,96 @@ local presets = {
     }, 
 
     -- RAPPORTUS: Custom Filters defined below here
+    BOOTY = {
+        name = "Booty Bay",
+        key = "BOOTY",
+        tags = {
+            enUS = "bb booty bootybay bay",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    DARNASSUS = {
+        name = "Darnassus",
+        key = "DARNASSUS",
+        tags = {
+            enUS = "darn darnassus",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    DESOLACE = {
+        name = "Desolace",
+        key = "DESOLACE",
+        tags = {
+            enUS = "des desolac desolce desolace nijle nigle nijel nijels nigel nigels nigel's nigel's",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    DMF = {
+        name = "Darkmoon Faire",
+        key = "DMF",
+        tags = {
+            enUS = "dmf dark darkmoon fair faire elwynn mulgore",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    EVERLOOK = {
+        name = "Everlook",
+        key = "EVERLOOK",
+        tags = {
+            enUS = "everlook winterspring ws",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    FEATHERMOON = {
+        name = "Feathermoon",
+        key = "FEATHERMOON",
+        tags = {
+            enUS = "feat feather feathermoon feralas",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    GADGETZAN = {
+        name = "Gadgetzan",
+        key = "GADGETZAN",
+        tags = {
+            enUS = "gad gadg gadget gadgetzan tanaris",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    IRONFORGE = {
+        name = "Ironforge",
+        key = "IRONFORGE",
+        tags = {
+            enUS = "if ironforge iron",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
+    RATCHET = {
+        name = "Ratchet",
+        key = "RATCHET",
+        tags = {
+            enUS = "rat rachet ratch ratchet",
+        },
+        levels = CopyTable(HIDDEN_LEVEL_RANGE),
+        isDisabled = false,
+        sortIdx = 1
+    },
     SMANY = {
         name = "Scarlet Monastery (Any)",
         key = "SMANY",
